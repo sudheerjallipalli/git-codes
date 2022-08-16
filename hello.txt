@@ -1,3 +1,7 @@
 create new folder - mkdir foldername
 create new file -   type nul > filename.type
 any changes happens in folder - git status
+ 
+add file - git add filename
+commit -   git commit -m "filename.type"
+remove -   git restore --staged filename.
