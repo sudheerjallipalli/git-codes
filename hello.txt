@@ -1,0 +1,3 @@
+create new folder - mkdir foldername
+create new file -   type nul > filename.type
+any changes happens in folder - git status
